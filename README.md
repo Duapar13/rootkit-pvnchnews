@@ -47,5 +47,3 @@ Ce script Python offre les fonctionnalités suivantes :
 Ce script est fourni à des fins éducatives et doit être utilisé de manière responsable. Toute utilisation abusive ou non autorisée du script est interdite. L'auteur du script n'est en aucun cas responsable de tout dommage résultant de son utilisation inappropriée.
 
 --- 
-
-N'oubliez pas d'adapter ce README en fonction de vos besoins spécifiques et d'inclure toute autre information pertinente concernant votre projet.
